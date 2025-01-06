@@ -7,7 +7,13 @@ nav ul{
     color: white;
 }
 
+
 img{
     width: 150px;
     height: 150px;
+}
+
+nav ul li{
+    float: left;
+
 }
